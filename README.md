@@ -96,3 +96,7 @@ Cleveland, William S. (1979). "Robust Locally Weighted Regression and Smoothing 
 Statsmodels Documentation: https://www.statsmodels.org
 Harrell, Frank E. Jr. "Regression Modeling Strategies"
 https://www.kaggle.com/code/eugeniyosetrov/lowess-smoother-algorithm
+
+
+# Note:
+This notebook is designed for educational and research purposes. Real-world applications may require additional considerations and validation.
