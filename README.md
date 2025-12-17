@@ -3,7 +3,6 @@ Implementation of LOWESS (Locally Weighted Scatterplot Smoothing) algorithm with
 
 ## Overview
 LOWESS is a powerful nonparametric technique proposed by Cleveland (1979) for modeling and smoothing two-dimensional data. This method is particularly useful for:
-
 - Data smoothing - Extracting trends from noisy data
 - Outlier detection - Identifying anomalies relative to local trends
 - Forecasting - Building flexible regression models for volatile data
@@ -48,24 +47,24 @@ smoothed, bottom, top = lowess_with_confidence_bounds(
 ```
 # Results
 The implementation demonstrates:
-Smooth curve fitting through noisy data
-95% confidence intervals via bootstrap resampling
-Effective handling of nonlinear patterns
-Robust performance in presence of outliers
+- Smooth curve fitting through noisy data
+- 95% confidence intervals via bootstrap resampling
+- Effective handling of nonlinear patterns
+- Robust performance in presence of outliers
 
 # Algorithm Details
 LOWESS works by:
-Local fitting - Estimating each point using its neighbors
-Weighted regression - Using tricube weighting function
-Iterative refinement - Downweighting outliers in subsequent iterations
-Bootstrap validation - Assessing uncertainty through resampling
+- Local fitting - Estimating each point using its neighbors
+- Weighted regression - Using tricube weighting function
+- Iterative refinement - Downweighting outliers in subsequent iterations
+- Bootstrap validation - Assessing uncertainty through resampling
 
 # Applications
-Genetics research - Gene expression data analysis
-Financial modeling - Time series smoothing
-Signal processing - Noise reduction
-Quality control - Trend detection in manufacturing
-Environmental science - Climate data analysis
+- Genetics research - Gene expression data analysis
+- Financial modeling - Time series smoothing
+- Signal processing - Noise reduction
+- Quality control - Trend detection in manufacturing
+- Environmental science - Climate data analysis
 
 # Project Structure
 ```text
@@ -99,4 +98,5 @@ https://www.kaggle.com/code/eugeniyosetrov/lowess-smoother-algorithm
 
 
 # Note:
-This notebook is designed for educational and research purposes. Real-world applications may require additional considerations and validation.
+This notebook is designed for educational and research purposes.
+Real-world applications may require additional considerations and validation.
