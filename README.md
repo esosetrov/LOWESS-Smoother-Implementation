@@ -77,12 +77,12 @@ LOWESS-Smoother-Implementation/
 ```
 
 # Dependencies
-Python 3.10+
-numpy
-matplotlib
-seaborn
-statsmodels
-pandas
+- Python 3.10+;
+- numpy;
+- matplotlib;
+- seaborn;
+- statsmodels;
+- pandas;
 
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
