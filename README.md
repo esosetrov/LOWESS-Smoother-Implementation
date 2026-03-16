@@ -92,9 +92,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # References
 Cleveland, William S. (1979). "Robust Locally Weighted Regression and Smoothing Scatterplots". Journal of the American Statistical Association.
-Statsmodels Documentation: https://www.statsmodels.org
-Harrell, Frank E. Jr. "Regression Modeling Strategies"
-https://www.kaggle.com/code/eugeniyosetrov/lowess-smoother-algorithm
+Statsmodels Documentation: https://www.statsmodels.org.
+Harrell, Frank E. Jr. "Regression Modeling Strategies".
+https://www.kaggle.com/code/eugeniyosetrov/lowess-smoother-algorithm.
 
 
 # Note:
