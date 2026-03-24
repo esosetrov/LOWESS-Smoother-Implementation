@@ -3,17 +3,17 @@ Implementation of LOWESS (Locally Weighted Scatterplot Smoothing) algorithm with
 
 ## Overview
 LOWESS is a powerful nonparametric technique proposed by Cleveland (1979) for modeling and smoothing two-dimensional data. This method is particularly useful for:
-- Data smoothing - Extracting trends from noisy data
-- Outlier detection - Identifying anomalies relative to local trends
-- Forecasting - Building flexible regression models for volatile data
-- Seasonal analysis - Handling periodic and evolutionary data series
+- Data smoothing - Extracting trends from noisy data.
+- Outlier detection - Identifying anomalies relative to local trends.
+- Forecasting - Building flexible regression models for volatile data.
+- Seasonal analysis - Handling periodic and evolutionary data series.
 
 ## Features
-- LOWESS smoothing with customizable bandwidth
-- Bootstrap confidence intervals (95% CI)
-- Nonlinear data handling - perfect for cosine-like patterns
-- Interactive visualization with matplotlib and seaborn
-- Statistical robustness - resistant to outliers
+- LOWESS smoothing with customizable bandwidth.
+- Bootstrap confidence intervals (95% CI).
+- Nonlinear data handling - perfect for cosine-like patterns.
+- Interactive visualization with matplotlib and seaborn.
+- Statistical robustness - resistant to outliers.
 
 ## Installation
 ```bash
@@ -82,7 +82,7 @@ LOWESS-Smoother-Implementation/
 - matplotlib;
 - seaborn;
 - statsmodels;
-- pandas;
+- pandas.
 
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
