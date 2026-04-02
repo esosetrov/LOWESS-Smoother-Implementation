@@ -1,5 +1,5 @@
 # LOWESS-Smoother-Implementation
-Implementation of LOWESS (Locally Weighted Scatterplot Smoothing) algorithm with bootstrap confidence intervals for nonparametric regression and data smoothing in Python.
+Implementation of LOWESS (Locally Weighted Scatterplot Smoothing) algorithm with bootstrap confidence intervals for nonparametric regression and data smoothing.
 
 ## Overview
 LOWESS is a powerful nonparametric technique proposed by Cleveland (1979) for modeling and smoothing two-dimensional data. This method is particularly useful for:
@@ -23,7 +23,7 @@ cd LOWESS-Smoother-Implementation
 ```
 
 # Install dependencies
-pip install numpy matplotlib seaborn statsmodels pandas
+pip install numpy matplotlib seaborn statsmodels pandas.
 
 
 # Usage
